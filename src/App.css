@@ -2,9 +2,17 @@
   padding-top: 3rem;
   text-align: center;
   color: white;
-  background: rgb(33, 33, 33);
+  background: dodgerblue;
 }
 
 .App-intro {
+  margin-left: 3rem;
+  margin-right: 3rem;
+  font-family: "Comic Sans MS", "Comic Sans", cursive, sans-serif;
   font-size: 3rem;
+  font-style: italic;
+  border-top: 7px dotted rgb(250, 250, 68);
+  border-bottom: 7px dotted rgb(250, 250, 68);
+  border-radius: 50%;
+  box-shadow: 0 2px 20px rgb(69, 106, 255);
 }
